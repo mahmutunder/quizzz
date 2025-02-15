@@ -1,0 +1,9 @@
+{
+    "subElements": ["div", "span", "a"],
+    "explanations": {
+      "div": "A <div> is a block-level container element.",
+      "span": "A <span> is an inline container element.",
+      "a": "An <a> element creates hyperlinks."
+    }
+  }
+  
